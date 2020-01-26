@@ -1,0 +1,33 @@
+{
+  "name": "codewars-javascript-solutions",
+  "version": "1.0.0",
+  "description": "Codewars Javascript Kata Solutions & Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanerSezgin/codewars.git"
+  },
+  "keywords": [
+    "codewars",
+    "solutions",
+    "kata",
+    "kyu",
+    "practice",
+    "code",
+    "javascript"
+  ],
+  "author": "Caner Sezgin <ccanersezgin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CanerSezgin/codewars/issues"
+  },
+  "homepage": "https://github.com/CanerSezgin/codewars#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/node": "^7.8.3",
+    "jest": "^25.1.0"
+  }
+}
