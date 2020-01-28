@@ -2,6 +2,7 @@
 [Codewars Kata Link](https://www.codewars.com/kata/536e9a7973130a06eb000e9f/train/javascript)
 
 **Description:**
+
 It's a Pokemon battle! Your task is to calculate the damage that a particular move would do using the following formula (not the actual one from the game):
 
 ```
@@ -13,8 +14,7 @@ Where:
 -   defense = the opponent's defense
 -   effectiveness = the effectiveness of the attack based on the matchup (see explanation below)
 
-Effectiveness:
-
+Effectiveness: <br>
 Attacks can be super effective, neutral, or not very effective depending on the matchup. For example, water would be super effective against fire, but not very effective against grass.
 
 -   Super effective: 2x damage
