@@ -15,13 +15,9 @@ const random = [
   new TestData(["7as8dw8mm"], "#####w8mm")
 ];
 const lessThan4Char = [
-  new TestData(["trl"], "trl"),
-  new TestData(["60"], "60"),
+  new TestData(["trl"], "trl"), 
+  new TestData(["60"], "60"), 
   new TestData(["f"], "f")
-]
+];
 
-getTestDescribe(maskify, {
-  example,
-  random,
-  lessThan4Char,
-});
+getTestDescribe(maskify, { example, random, lessThan4Char });

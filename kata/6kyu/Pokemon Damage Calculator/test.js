@@ -9,17 +9,14 @@ const example = [
   new TestData(["grass", "water", 40, 40], 100),
   new TestData(["grass", "fire", 35, 5], 175),
   new TestData(["fire", "electric", 10, 2], 250)
-]
+];
 const edgeCases = [
   new TestData(["electric", "electric", 57, 19], 75),
   new TestData(["water", "water", 85, 5], 425),
   new TestData(["electric", "electric", 0, 19], 0)
-]
+];
 const extra = [
-  new TestData(["water", "electric", 92, 2], 1150),
-     
-]
+  new TestData(["water", "electric", 92, 2], 1150)
+];
 
-
-
-getTestDescribe(calculateDamage, {example, edgeCases, extra})
+getTestDescribe(calculateDamage, { example, edgeCases, extra });
