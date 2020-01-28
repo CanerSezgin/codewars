@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1580222603880" clover="3.2.0">
+  <project timestamp="1580222603881" name="All files">
+    <metrics statements="17" coveredstatements="12" conditionals="4" coveredconditionals="2" methods="11" coveredmethods="10" elements="32" coveredelements="24" complexity="0" loc="17" ncloc="17" packages="3" files="3" classes="3"/>
+    <package name="kata.6kyu.Pokemon Damage Calculator">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="solution.js" path="/home/ls/Workspace/my/codewars/kata/6kyu/Pokemon Damage Calculator/solution.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="kata.7kyu.Credit Card Mask">
+      <metrics statements="6" coveredstatements="1" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="1"/>
+      <file name="solution.js" path="/home/ls/Workspace/my/codewars/kata/7kyu/Credit Card Mask/solution.js">
+        <metrics statements="6" coveredstatements="1" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="1"/>
+        <line num="2" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="lib">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="testHelper.js" path="/home/ls/Workspace/my/codewars/lib/testHelper.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="18" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="23" count="18" type="stmt"/>
+        <line num="36" count="18" type="stmt"/>
+        <line num="37" count="18" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
