@@ -13,6 +13,7 @@
 
 **Run Tests**
 `npm run test`
+`npm run test:watch`
 
 ## Simplified Automated Tests
 Thanks to this feature, one can easily create his/her own test without writing any code. No need to automated testing knowledge.  
