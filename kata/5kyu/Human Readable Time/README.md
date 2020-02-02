@@ -12,5 +12,7 @@ The maximum time never exceeds `359999 (99:59:59)`
 
 **Examples:**
 ```
-
+  humanReadable("5") == '00:00:05'
+  humanReadable("60") == '00:01:00'
+  humanReadable("86399") == '23:59:59'
 ```
